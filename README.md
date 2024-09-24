@@ -37,4 +37,4 @@ nltk.download('stopwords')
 
 ## Result 
 
-The ongoing decline of the Indian Rupee (INR) against the US Dollar (USD) is a complex issue influenced by various economic and geopolitical factors...
+![Final Outcome](NLPResult.jpg)
